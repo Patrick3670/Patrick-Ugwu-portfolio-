@@ -12,7 +12,7 @@ export default function Portfolio() {
       <section className="max-w-2xl mx-auto mb-16">
         <h2 className="text-3xl font-semibold mb-4">About Me</h2>
         <p className="text-lg">
-          Just a Web3 enthusiast still learning and aspiring to be a Web3 Dev.
+          A Web3 enthusiast,A Community manager, still learning and aspiring to be a Web3 Dev.
         </p>
       </section>
 
@@ -33,6 +33,11 @@ export default function Portfolio() {
             View on X
           </a>
         </div>
+        <li> I educate devs on why to build on bitcoin (Citrea threads)</li>
+        <li>I represent the Web3 communities actively </li>
+        <li> I create contents, and spark conversation</li>
+        <li> I am a very good reply guy</li>
+        <li>I'm focused on onboarding africans into Web3 the right way and my project on that</li>
       </section>
 
       <section className="max-w-2xl mx-auto mb-16">
