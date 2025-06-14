@@ -5,7 +5,7 @@ export default function Portfolio() {
     <main className="min-h-screen bg-gradient-to-b from-black to-zinc-900 text-gold font-[Times_New_Roman] p-6">
       <header className="text-center mb-12">
         <h1 className="text-5xl font-bold">Ugwu Patrick Ifechukwu</h1>
-        <p className="text-xl mt-2">Frontend Developer and Web3 Enthusiast</p>
+        <p className="text-xl mt-2">A Developer,Community Manager/Moderator and Web3 Enthusiast</p>
         <p className="text-md mt-1 text-zinc-400">Enugu, Nigeria</p>
       </header>
 
